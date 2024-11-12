@@ -1,0 +1,14 @@
+C:\Users\Philipp\Desktop\VS\Evolution\bin\Debug\net8.0\Evolution.exe
+C:\Users\Philipp\Desktop\VS\Evolution\bin\Debug\net8.0\Evolution.deps.json
+C:\Users\Philipp\Desktop\VS\Evolution\bin\Debug\net8.0\Evolution.runtimeconfig.json
+C:\Users\Philipp\Desktop\VS\Evolution\bin\Debug\net8.0\Evolution.dll
+C:\Users\Philipp\Desktop\VS\Evolution\bin\Debug\net8.0\Evolution.pdb
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.AssemblyInfoInputs.cache
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.AssemblyInfo.cs
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.dll
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\refint\Evolution.dll
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.pdb
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\Evolution.genruntimeconfig.cache
+C:\Users\Philipp\Desktop\VS\Evolution\obj\Debug\net8.0\ref\Evolution.dll
